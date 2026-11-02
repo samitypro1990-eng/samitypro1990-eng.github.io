@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.samitypro1990_eng.twa",
+    "sha256_cert_fingerprints": ["6D:8F:92:71:C6:64:0B:3C:9B:F4:97:88:1A:3A:BC:79:CD:AF:78:D0:7C:4E:8F:DE:A3:1F:D8:41:64:AC:02:58"]
+  }
+}]
